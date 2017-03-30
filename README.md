@@ -1,2 +1,2 @@
 # hello-world
-System.out.printl("Hello World");
+System.out.println("Hello World");
